@@ -1,0 +1,15 @@
+F:\Dev\Visual studio projects\Watermark\Watermark\bin\Debug\Watermark.exe.config
+F:\Dev\Visual studio projects\Watermark\Watermark\bin\Debug\Watermark.exe
+F:\Dev\Visual studio projects\Watermark\Watermark\bin\Debug\Watermark.pdb
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark.csprojResolveAssemblyReference.cache
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\MainWindow.g.cs
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\App.g.cs
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark_MarkupCompile.cache
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark_MarkupCompile.lref
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\MainWindow.baml
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark.g.resources
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark.exe
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark.pdb
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark.csproj.GenerateResource.Cache
+F:\Dev\Visual studio projects\Watermark\Watermark\obj\Debug\Watermark.Properties.Resources.resources
+F:\Dev\Visual studio projects\Watermark\Watermark\bin\Debug\Resources\background.png
